@@ -1,15 +1,15 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+mapmarkers-web/dist
+mapmarkers-web/tmp
+mapmarkers-web/out-tsc
 
 # dependencies
-/node_modules
+mapmarkers-web/node_modules
 
 # IDEs and editors
-/.idea
+.idea
 .project
 .classpath
 .c9/
@@ -25,14 +25,14 @@
 !.vscode/extensions.json
 
 # misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
+mapmarkers-web/.sass-cache
+mapmarkers-web/connect.lock
+mapmarkers-web/coverage
+mapmarkers-web/libpeerconnection.log
 npm-debug.log
 yarn-error.log
 testem.log
-/typings
+mapmarkers-web/typings
 
 # System Files
 .DS_Store
